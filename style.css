@@ -547,13 +547,13 @@
   text-decoration: none;
 }
  
-@media(max-width: 991px) {
+@media(max-width: 490px) {
   .thq-grid-4 {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
  
-@media(max-width: 767px) {
+@media(max-width: 400px) {
   .thq-section-padding {
     padding: var(--dl-space-space-threeunits);
   }
@@ -592,7 +592,7 @@
   }
 }
  
-@media(max-width: 479px) {
+@media(max-width: 350px) {
   .thq-section-padding {
     padding: var(--dl-space-space-oneandhalfunits);
   }
